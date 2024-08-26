@@ -52,7 +52,7 @@ Se você gostou do meu perfil, sinta-se à vontade dar uma estrela nos meus proj
 
 
 
-Sinta-se confortável para feedbacks e entrar em contato para partipar de projetos ! 
+Agradeço pela visita  ! 
 
 
 

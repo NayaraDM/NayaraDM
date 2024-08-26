@@ -1,10 +1,9 @@
 ### new account ✨ 
-
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayaracabral)](https://github.com/nayaracabral)
 
 
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+
+# Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 
 <br>
@@ -12,13 +11,17 @@
 ## Trainne development engineer 
 
 
-📌Atualmente, estou focado em desenvolvimento web e melhorar processos em automação industrial.<br>
+📌Atualmente, estou focando em desenvolvimento web e melhorar processos em automação industrial.
+
+<br>
 
 
 <details> <summary> <h2> 📍 About Me</h2> </summary>
 
 
-⚡ Meu interesse pela área começou com os cursos de extensão do IFRS, onde aprendi o básico de programação e lógica. Depois, me aprofundei nos estudos participando de projetos no IFPE, onde frequentei o curso técnico em informática.🚀 Lá, tive a oportunidade com novos desafios e oportunidades de aprendizado, além de aprender sobre cybersegurança e data science com os cursos da Cisco, que me abriram novas possibilidades de criação e solução de problemas.
+⚡ Meu interesse pela área começou com os cursos de extensão do IFRS, onde aprendi o básico de programação e lógica.
+ Depois, me aprofundei nos estudos participando de projetos no IFPE, onde frequentei o curso técnico em informática.🚀 
+ Lá, tive a oportunidade com novos desafios e oportunidades de aprendizado, além de aprender sobre cybersegurança e data science com os cursos da Cisco, que me abriram novas possibilidades de criação e solução de problemas.
 
 </details>
 

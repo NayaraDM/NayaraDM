@@ -8,7 +8,7 @@
 
 <br>
 
-  Goal: Dev Full Stack|Development engineer software
+## Goal: Dev Full Stack|Development engineer software
 
 📌Atualmente, estou focado em desenvolvimento web e melhorar processos em automação industrial.<br>
 
@@ -60,7 +60,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/..)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/use/..)
 <br/>
 ---
 

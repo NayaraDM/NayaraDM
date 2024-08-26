@@ -16,7 +16,7 @@
 
 <details>
   <summary>
-    <h2> About Me</h2>
+    <h2> 📍 About Me</h2>
   </summary>
 
 ⚡ Meu interesse pela área começou com os cursos de extensão do IFRS, onde aprendi o básico de programação e lógica. Depois, me aprofundei nos estudos participando de projetos no IFPE, onde frequentei o curso técnico em informática.🚀 Lá, tive a oportunidade com novos desafios e oportunidades de aprendizado, além de aprender sobre cybersegurança e data science com os cursos da Cisco, que me abriram novas possibilidades de criação e solução de problemas.
@@ -65,14 +65,14 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/..)
 <br/>
 ---
 
 
 ## Ferramentas 🛠️🔧 🚀
 
-Se você gostou do meu perfil, sinta-se à vontade dar uma estrela nos meus projetos e me enviar um feedback. Gosto de colaborar com outros desenvolvedores e aprender com eles. Espero te ver em breve! 👋
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayaracabral&layout=compact)](https://github.com/nayaracabral/github-readme-stats)
 
@@ -82,7 +82,7 @@ Se você gostou do meu perfil, sinta-se à vontade dar uma estrela nos meus proj
 
 
 
-Agradeço pela visita  ! 
+Se você gostou do meu perfil, sinta-se à vontade dar uma estrela nos meus projetos e me enviar um feedback. Gosto de colaborar com outros desenvolvedores e aprender com eles. Espero te ver em breve! 👋
 
 
 

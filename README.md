@@ -1,9 +1,8 @@
-### new account ✨ 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayaracabral)](https://github.com/nayaracabral)
-
-
 
 # Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+
+### new account ✨ 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayaracabral)](https://github.com/nayaracabral)
 
 
 <br>
@@ -26,7 +25,7 @@
 </details>
 
 
-## Linguagens e Tecnologias
+## Skills 🛠️🔧 🚀
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -67,14 +66,8 @@
 
 
 
-### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/us/..)
-<br/>
 ---
-
-
-## Ferramentas 🛠️🔧 🚀
 
 
 

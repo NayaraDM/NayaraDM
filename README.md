@@ -10,7 +10,12 @@
 ## Trainne development engineer 
 
 
-📌Atualmente, estou focando em desenvolvimento web e melhorar processos em automação industrial.
+🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
+
+📌 Atualmente, estou focando em desenvolvimento web e automação de processos.
+
+🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.
+
 
 <br>
 
@@ -63,6 +68,7 @@
 <br />
 
 ---
+
 
 
 

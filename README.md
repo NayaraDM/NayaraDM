@@ -44,11 +44,6 @@
 ![Angular](https://img.shields.io/badge/Angular-%E23236?style=flat&logo=angular&logoColor=white)
 
 
-![Assembly](https://img.shields.io/badge/Assembly-%234D57FF?style=flat&logo=assembly&logoColor=white)
-
-![C#](https://img.shields.io/badge/C%23-%231e4d92?style=flat&logo=csharp&logoColor=white)
-
-
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
